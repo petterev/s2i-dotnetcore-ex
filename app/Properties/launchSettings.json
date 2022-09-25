@@ -1,28 +1,61 @@
-﻿{
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:29144",
-      "sslPort": 44338
+      "applicationUrl": "http://localhost:49146",
+      "sslPort": 0
     }
   },
   "profiles": {
-    "app": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
+    "IIS Express": {
+      "commandName": "IISExpress",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7008;http://localhost:5247",
+      "launchUrl": "weatherforecast",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "IIS Express": {
-      "commandName": "IISExpress",
+    "app": {
+      "commandName": "Project",
       "launchBrowser": true,
+      "launchUrl": "weatherforecast",
+      "applicationUrl": "http://localhost:49146",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
   }
+
 }
+
+
+
+  //"iisSettings": {
+  //  "windowsAuthentication": false,
+  //  "anonymousAuthentication": true,
+  //  "iisExpress": {
+  //    "applicationUrl": "http://localhost:29144",
+  //    "sslPort": 44338
+  //  }
+  //},
+  //"profiles": {
+  //  "app": {
+  //    "commandName": "Project",
+  //    "dotnetRunMessages": true,
+  //    "launchBrowser": true,
+  //    "applicationUrl": "https://localhost:7008;http://localhost:5247",
+  //    "environmentVariables": {
+  //      "ASPNETCORE_ENVIRONMENT": "Development"
+  //    }
+  //  },
+  //  "IIS Express": {
+  //    "commandName": "IISExpress",
+  //    "launchBrowser": true,
+  //    "environmentVariables": {
+  //      "ASPNETCORE_ENVIRONMENT": "Development"
+  //    }
+  //  }
+  //}
+
