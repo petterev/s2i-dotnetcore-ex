@@ -36,3 +36,7 @@ C:\dotnet\dotnet31\app\app\obj\Debug\netcoreapp3.1\app.dll
 C:\dotnet\dotnet31\app\app\obj\Debug\netcoreapp3.1\app.pdb
 C:\dotnet\dotnet31\app\app\obj\Debug\netcoreapp3.1\app.genruntimeconfig.cache
 C:\dotnet\dotnet31\app\app\obj\Debug\netcoreapp3.1\app.csproj.CopyComplete
+C:\dotnet\dotnet31\app\app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\dotnet\dotnet31\app\app\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\dotnet\dotnet31\app\app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dotnet\dotnet31\app\app\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

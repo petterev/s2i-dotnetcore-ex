@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "APGGXzgxzYoT6lFceMeJevthljra6RxOWZpmNYAq2Q9as9cI7vyql2bRckhAvt2B67FrwzAVOA2S2AfP7phGqg==",
+  "dgSpecHash": "VcV53D35XpmRYw+U61NVlayP5Gy3/GTYlTc78/9HjQ9ZO0RhX/0K5ygRdTaUHqQ5sFzx5ByIWuLwhSlIwLO86w==",
   "success": true,
   "projectFilePath": "C:\\dotnet\\dotnet31\\app\\app\\app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Petteri\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.29\\microsoft.aspnetcore.jsonpatch.3.1.29.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.29\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.29.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

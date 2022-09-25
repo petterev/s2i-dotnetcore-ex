@@ -1,8 +1,10 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using app.Models;
+using Microsoft.Extensions.Logging;
 
-namespace app.Controllers;
+namespace app.Controllers
+{ 
 
 public class HomeController : Controller
 {
@@ -28,4 +30,5 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+}
 }
