@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DR8IWzhXEMsJLPt163cuByCCcZ4bB4ynrktAFLJK8mr67M6CrSETRlN7DHv23AMp7B9J5r6d4pCE9EbC88R4sw==",
+  "success": true,
+  "projectFilePath": "C:\\dotnet\\dotnet50\\s2i-dotnetcore-ex\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petteri\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.17\\microsoft.aspnetcore.jsonpatch.5.0.17.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.17\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.17.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
