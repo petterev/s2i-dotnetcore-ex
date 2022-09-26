@@ -25,7 +25,7 @@ namespace app.Controllers
         public JsonResult Get()
         {
             string query = @"
-                select ""Id"" as ""Id"",
+                select ""Index"" as ""Id"",
                         ""Description"" as ""Description""
                 from ""Event_codes""
             ";
@@ -39,6 +39,7 @@ namespace app.Controllers
             using (NpgsqlConnection myCon = new NpgsqlConnection(sqlDataSource))
             {
                 myCon.Open();
+
                 using (NpgsqlCommand myCommand = new NpgsqlCommand(query, myCon))
                 {
                     myReader = myCommand.ExecuteReader();
